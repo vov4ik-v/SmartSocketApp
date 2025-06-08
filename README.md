@@ -101,10 +101,12 @@ GET    /statistics/7d       -> Статистика за тиждень
 
 ## 📸 Скріншоти
 
-> ```markdown
-> ![Головний екран](screens/home.png)
-> ![Статистика](screens/statistic.png)
-> ```
+### 🏠 Головний екран
+<img src="screens/home.png" width="200"/>
+
+### 📊 Статистика
+<img src="screens/statistic.png" width="200"/>
+
 
 ---
 
