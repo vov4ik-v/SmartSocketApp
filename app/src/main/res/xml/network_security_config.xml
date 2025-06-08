@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">176.88.169.230</domain>
+        <domain includeSubdomains="true">192.168.31.252</domain>
+        <domain includeSubdomains="true">smart-socket-app-dcedd173cf01.herokuapp.com</domain>
+    </domain-config>
+</network-security-config>
